@@ -1,0 +1,11 @@
+{
+  "_note": "Places we measure commutes to. Coordinates are APPROXIMATE - verify each one: right-click the building in Google Maps and copy the lat/lon. Add or remove destinations freely; the key is what the criteria refer to.",
+  "destinations": {
+    "main":        {"label": "Main building (Egyetem tér 1)",                     "lat": 47.5536, "lon": 21.6215},
+    "medical":     {"label": "Medical & Health campus (Nagyerdei krt. 98)",       "lat": 47.5580, "lon": 21.6290},
+    "kassai":      {"label": "Kassai út campus – IT & Economics (Kassai út 26)",  "lat": 47.5419, "lon": 21.6397},
+    "engineering": {"label": "Faculty of Engineering (Ótemető u. 2–4)",           "lat": 47.5318, "lon": 21.6100},
+    "agri":        {"label": "Böszörményi út campus – Agriculture",               "lat": 47.5555, "lon": 21.5960},
+    "center":      {"label": "City centre (Kossuth tér)",                         "lat": 47.5316, "lon": 21.6254}
+  }
+}

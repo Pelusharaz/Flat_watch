@@ -1,0 +1,23 @@
+{
+  "_source": "fallback",
+  "_note": "FALLBACK: tram lines 1 and 2 only, stop names from DKV/Wikipedia, coordinates APPROXIMATE. Run `python tools/fetch_osm_stops.py` (needs internet) to replace this file with every bus, tram and trolleybus stop and line in Debrecen from OpenStreetMap.",
+  "stops": [
+    {"name": "Nagyállomás",                 "lat": 47.5205, "lon": 21.6290, "lines": ["Tram 1", "Tram 2"]},
+    {"name": "Vásáry István utca",          "lat": 47.5235, "lon": 21.6285, "lines": ["Tram 1", "Tram 2"]},
+    {"name": "Szent Anna utca",             "lat": 47.5262, "lon": 21.6278, "lines": ["Tram 1", "Tram 2"]},
+    {"name": "Városháza",                   "lat": 47.5293, "lon": 21.6265, "lines": ["Tram 1", "Tram 2"]},
+    {"name": "Kossuth tér",                 "lat": 47.5316, "lon": 21.6254, "lines": ["Tram 1", "Tram 2"]},
+    {"name": "Kálvin tér",                  "lat": 47.5343, "lon": 21.6240, "lines": ["Tram 1", "Tram 2"]},
+    {"name": "Eötvös utca",                 "lat": 47.5372, "lon": 21.6243, "lines": ["Tram 1"]},
+    {"name": "Bem tér",                     "lat": 47.5410, "lon": 21.6250, "lines": ["Tram 1"]},
+    {"name": "Weszprémy utca",              "lat": 47.5445, "lon": 21.6255, "lines": ["Tram 1"]},
+    {"name": "Nagyerdei körút",             "lat": 47.5490, "lon": 21.6265, "lines": ["Tram 1"]},
+    {"name": "Aquaticum",                   "lat": 47.5545, "lon": 21.6300, "lines": ["Tram 1"]},
+    {"name": "Klinikák",                    "lat": 47.5585, "lon": 21.6290, "lines": ["Tram 1"]},
+    {"name": "Egyetem",                     "lat": 47.5545, "lon": 21.6225, "lines": ["Tram 1"]},
+    {"name": "Szent László Gimnázium",      "lat": 47.5355, "lon": 21.6170, "lines": ["Tram 2"]},
+    {"name": "Csokonai V. M. Gimnázium",    "lat": 47.5355, "lon": 21.6060, "lines": ["Tram 2"]},
+    {"name": "Kartács utca",                "lat": 47.5330, "lon": 21.6010, "lines": ["Tram 2"]},
+    {"name": "Doberdó utca",                "lat": 47.5355, "lon": 21.5985, "lines": ["Tram 2"]}
+  ]
+}

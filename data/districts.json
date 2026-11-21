@@ -1,0 +1,126 @@
+{
+  "_note": "Neighbourhood centre points, used when a listing has no exact street address. APPROXIMATE coordinates - verify in Google Maps. 'aliases' are matched against the listing location (accents ignored). Vénkert, Sestakert and Újkert are on the WEST side (served by tram 2).",
+  "districts": {
+    "Nagyerdő": {
+      "lat": 47.556,
+      "lon": 21.627,
+      "aliases": [
+        "nagyerdo",
+        "egyetem ter",
+        "egyetemvaros",
+        "bem ter"
+      ]
+    },
+    "Belváros": {
+      "lat": 47.53,
+      "lon": 21.6265,
+      "aliases": [
+        "belvaros",
+        "piac utca",
+        "kossuth ter",
+        "kalvin ter",
+        "hatvan utca"
+      ]
+    },
+    "Libakert": {
+      "lat": 47.545,
+      "lon": 21.615,
+      "aliases": [
+        "libakert"
+      ]
+    },
+    "Wesselényi": {
+      "lat": 47.54,
+      "lon": 21.624,
+      "aliases": [
+        "wesselenyi"
+      ]
+    },
+    "Sestakert": {
+      "lat": 47.537,
+      "lon": 21.61,
+      "aliases": [
+        "sestakert"
+      ]
+    },
+    "Epreskert": {
+      "lat": 47.544,
+      "lon": 21.63,
+      "aliases": [
+        "epreskert"
+      ]
+    },
+    "Kerekestelep": {
+      "lat": 47.548,
+      "lon": 21.605,
+      "aliases": [
+        "kerekestelep"
+      ]
+    },
+    "Postakert": {
+      "lat": 47.523,
+      "lon": 21.615,
+      "aliases": [
+        "postakert"
+      ]
+    },
+    "Dobozikert": {
+      "lat": 47.522,
+      "lon": 21.642,
+      "aliases": [
+        "dobozikert"
+      ]
+    },
+    "Csapókert": {
+      "lat": 47.535,
+      "lon": 21.658,
+      "aliases": [
+        "csapokert"
+      ]
+    },
+    "Vénkert": {
+      "lat": 47.5305,
+      "lon": 21.604,
+      "aliases": [
+        "venkert"
+      ]
+    },
+    "Újkert": {
+      "lat": 47.525,
+      "lon": 21.601,
+      "aliases": [
+        "ujkert"
+      ]
+    },
+    "Homokkert": {
+      "lat": 47.513,
+      "lon": 21.64,
+      "aliases": [
+        "homokkert"
+      ]
+    },
+    "Tócóskert": {
+      "lat": 47.516,
+      "lon": 21.588,
+      "aliases": [
+        "tocoskert",
+        "tocovolgy"
+      ]
+    },
+    "Józsa": {
+      "lat": 47.59,
+      "lon": 21.595,
+      "aliases": [
+        "jozsa"
+      ]
+    },
+    "Kassai út": {
+      "lat": 47.5405,
+      "lon": 21.6425,
+      "aliases": [
+        "kassai ut",
+        "kassai"
+      ]
+    }
+  }
+}

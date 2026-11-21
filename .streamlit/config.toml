@@ -1,0 +1,10 @@
+[server]
+# Photos in ./static are served at /app/static/... (used in emails and the gallery)
+enableStaticServing = true
+maxUploadSize = 10
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+primaryColor = "#c0392b"

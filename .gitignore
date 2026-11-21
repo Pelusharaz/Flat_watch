@@ -1,0 +1,11 @@
+.env
+*.db
+*.db-wal
+*.db-shm
+data/outbox/
+data/geocache.json
+data/my_destinations.json
+static/photos/
+__pycache__/
+.pytest_cache/
+data/mailbox/

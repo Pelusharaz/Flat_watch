@@ -1,0 +1,264 @@
+{
+  "_note": "SAMPLE flatmate profiles (made up) so the matching can be demoed. Real profiles are saved in the database from the app.",
+  "profiles": [
+    {
+      "id": "P01",
+      "name": "Amira Haddad",
+      "age": 22,
+      "gender": "Female",
+      "languages": [
+        "Arabic",
+        "English"
+      ],
+      "campus": "medical",
+      "budget_huf": 110000,
+      "move_in": "2027-02-01",
+      "lifestyle": "quiet",
+      "about": "2nd-year medicine, early riser, likes cooking.",
+      "pref_genders": [
+        "Female"
+      ],
+      "ok_with_pets": true,
+      "contact": "amira@example.com",
+      "wanted_types": [
+        "room",
+        "bed"
+      ],
+      "documents_ready": true
+    },
+    {
+      "id": "P02",
+      "name": "Lena Fischer",
+      "age": 23,
+      "gender": "Female",
+      "languages": [
+        "German",
+        "English"
+      ],
+      "campus": "medical",
+      "budget_huf": 120000,
+      "move_in": "2027-02-01",
+      "lifestyle": "quiet",
+      "about": "Dentistry student, plays violin (quietly!).",
+      "pref_genders": [
+        "Female"
+      ],
+      "contact": "lena@example.com",
+      "wanted_types": [
+        "room",
+        "apartment"
+      ],
+      "documents_ready": true
+    },
+    {
+      "id": "P03",
+      "name": "Chinedu Okafor",
+      "age": 24,
+      "gender": "Male",
+      "languages": [
+        "English"
+      ],
+      "campus": "kassai",
+      "budget_huf": 95000,
+      "move_in": "2027-02-01",
+      "lifestyle": "balanced",
+      "about": "MSc Computer Science, into football and coding.",
+      "pref_genders": [
+        "Male"
+      ],
+      "contact": "chinedu@example.com",
+      "wanted_types": [
+        "bed",
+        "room"
+      ],
+      "documents_ready": true
+    },
+    {
+      "id": "P04",
+      "name": "Ali Rezaei",
+      "age": 25,
+      "gender": "Male",
+      "languages": [
+        "Persian",
+        "English"
+      ],
+      "campus": "kassai",
+      "budget_huf": 100000,
+      "move_in": "2027-02-10",
+      "lifestyle": "balanced",
+      "about": "Economics PhD student, tidy, cooks a lot.",
+      "pref_genders": [
+        "Male"
+      ],
+      "contact": "ali@example.com",
+      "wanted_types": [
+        "room"
+      ],
+      "documents_ready": true
+    },
+    {
+      "id": "P05",
+      "name": "Kenji Sato",
+      "age": 21,
+      "gender": "Male",
+      "languages": [
+        "Japanese",
+        "English"
+      ],
+      "campus": "main",
+      "budget_huf": 160000,
+      "move_in": "2027-02-01",
+      "lifestyle": "quiet",
+      "about": "Exchange student, Hungarian language course.",
+      "contact": "kenji@example.com",
+      "wanted_types": [
+        "apartment"
+      ],
+      "documents_ready": true
+    },
+    {
+      "id": "P06",
+      "name": "Dóra Kiss",
+      "age": 22,
+      "gender": "Female",
+      "languages": [
+        "Hungarian",
+        "English"
+      ],
+      "campus": "main",
+      "budget_huf": 115000,
+      "move_in": "2027-02-01",
+      "lifestyle": "social",
+      "about": "English studies, wants to practise English at home.",
+      "pref_languages": [
+        "English"
+      ],
+      "ok_with_pets": true,
+      "contact": "dora@example.com",
+      "wanted_types": [
+        "room",
+        "apartment"
+      ],
+      "documents_ready": true
+    },
+    {
+      "id": "P07",
+      "name": "Mehmet Yılmaz",
+      "age": 26,
+      "gender": "Male",
+      "languages": [
+        "Turkish",
+        "English",
+        "German"
+      ],
+      "campus": "engineering",
+      "budget_huf": 105000,
+      "move_in": "2027-01-15",
+      "smoker": true,
+      "lifestyle": "social",
+      "about": "Mechanical engineering MSc, smokes on the balcony only.",
+      "ok_with_smoker": true,
+      "contact": "mehmet@example.com",
+      "wanted_types": [
+        "room",
+        "bed"
+      ],
+      "documents_ready": true
+    },
+    {
+      "id": "P08",
+      "name": "Sara Lindqvist",
+      "age": 24,
+      "gender": "Female",
+      "languages": [
+        "Swedish",
+        "English"
+      ],
+      "campus": "medical",
+      "budget_huf": 125000,
+      "move_in": "2027-02-01",
+      "has_pet": true,
+      "lifestyle": "balanced",
+      "about": "Medicine, has a very calm cat.",
+      "pref_genders": [
+        "Female"
+      ],
+      "ok_with_pets": true,
+      "contact": "sara@example.com",
+      "wanted_types": [
+        "apartment",
+        "room"
+      ],
+      "documents_ready": true
+    },
+    {
+      "id": "P09",
+      "name": "Usman Tariq",
+      "age": 23,
+      "gender": "Male",
+      "languages": [
+        "Urdu",
+        "English"
+      ],
+      "campus": "kassai",
+      "budget_huf": 90000,
+      "move_in": "2027-02-01",
+      "lifestyle": "quiet",
+      "about": "Data Science MSc, non-smoker, prefers a quiet flat.",
+      "pref_genders": [
+        "Male"
+      ],
+      "contact": "usman@example.com",
+      "wanted_types": [
+        "bed",
+        "room"
+      ],
+      "documents_ready": true
+    },
+    {
+      "id": "P10",
+      "name": "Priya Nair",
+      "age": 22,
+      "gender": "Female",
+      "languages": [
+        "English",
+        "Hindi"
+      ],
+      "campus": "medical",
+      "budget_huf": 105000,
+      "move_in": "2027-02-01",
+      "lifestyle": "quiet",
+      "about": "Pharmacy student, vegetarian, tidy.",
+      "pref_genders": [
+        "Female"
+      ],
+      "wanted_types": [
+        "room",
+        "bed"
+      ],
+      "contact": "priya@example.com",
+      "documents_ready": true
+    },
+    {
+      "id": "P11",
+      "name": "Arjun Mehta",
+      "age": 23,
+      "gender": "Male",
+      "languages": [
+        "English",
+        "Hindi"
+      ],
+      "campus": "main",
+      "budget_huf": 70000,
+      "move_in": "2027-01-20",
+      "lifestyle": "social",
+      "about": "Engineering student, likes cooking and cricket.",
+      "wanted_types": [
+        "bed",
+        "room"
+      ],
+      "contact": "arjun@example.com",
+      "documents_ready": true
+    }
+  ]
+}

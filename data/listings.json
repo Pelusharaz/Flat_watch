@@ -1,0 +1,366 @@
+{
+  "_note": "SAMPLE DATA written for the demo - not real listings. Site listings (Hungarian) + places posted in the app by owners / subletting tenants (source 'Flat-Watch'). The ORDER is the order they arrive in the demo.",
+  "listings": [
+    {
+      "id": "L01",
+      "source": "ingatlan.com",
+      "title": "Kiadó 2 szobás felújított lakás a Belvárosban",
+      "price_huf": 230000,
+      "location": "Debrecen, Belváros, Hatvan utca",
+      "size_m2": 62,
+      "rooms": 2,
+      "description": "Kiadó a Belvárosban egy frissen felújított, bútorozott, gépesített 2 szobás lakás. Rezsi kb. 40e Ft/hó. 2 havi kaució szükséges. Háziállat nem hozható. Február 1-től beköltözhető.",
+      "contact": "+36 30 555 0101",
+      "url": "https://ingatlan.com/demo-L01",
+      "photo_hashes": [
+        "img_l01a",
+        "img_l01b"
+      ]
+    },
+    {
+      "id": "L02",
+      "source": "Flat-Watch",
+      "title": "Bútorozott 1,5 szobás lakás Libakertben egyetemistának",
+      "price_huf": 135000,
+      "location": "Debrecen, Libakert, Thomas Mann utca",
+      "size_m2": 41,
+      "rooms": 1.5,
+      "description": "Egyetemisták figyelmébe! Kiadó egy csendes, bútorozott 1,5 szobás lakás Libakertben, a 3-as busz megállója 2 percre. Rezsi átlagosan 30e Ft. Kaució 270 000 Ft. Február 1-től beköltözhető. Megtekintés egyeztetés után bármikor.",
+      "contact": "",
+      "url": "",
+      "photo_hashes": [
+        "img_l02a",
+        "img_l02b"
+      ],
+      "poster_role": "owner",
+      "poster_name": "Éva Tóth"
+    },
+    {
+      "id": "L16",
+      "source": "Jófogás",
+      "title": "Diáklánynak szoba kiadó Libakertben",
+      "price_huf": 75000,
+      "location": "Debrecen, Libakert",
+      "size_m2": 14,
+      "rooms": 1,
+      "description": "Kiadó egy bútorozott szoba egy 3 szobás lakásban, két egyetemista lány mellé. Rezsi kb. 20e Ft. Kaució 1 havi. Február 1-től beköltözhető. Csak lánynak!",
+      "contact": "+36 30 555 0116",
+      "url": "https://jofogas.hu/demo-L16",
+      "photo_hashes": [
+        "img_l16"
+      ]
+    },
+    {
+      "id": "F01",
+      "source": "Flat-Watch",
+      "title": "Private room in a girls' flat, Belváros",
+      "price_huf": 85000,
+      "location": "Debrecen, Belváros, Hatvan utca",
+      "size_m2": 13,
+      "rooms": 1,
+      "offer_type": "room",
+      "poster_role": "tenant",
+      "poster_name": "Yasmin Khalil",
+      "description": "I'm moving out in February and the landlord agreed I can find the next tenant. Furnished room, shared kitchen and bathroom with two friendly medical students. Quiet flat, no smoking.",
+      "contact": "yasmin@example.com",
+      "utilities_huf": 18000,
+      "deposit_huf": 85000,
+      "furnished": true,
+      "available_from": "2027-02-01",
+      "smoking_ok": false,
+      "pets_ok": false,
+      "pref_genders": [
+        "Female"
+      ],
+      "pref_languages": [
+        "English"
+      ],
+      "occupants": [
+        {
+          "gender": "Female"
+        },
+        {
+          "gender": "Female"
+        }
+      ]
+    },
+    {
+      "id": "L03",
+      "source": "ingatlan.com",
+      "title": "Olcsó panellakás Tócóskerten",
+      "price_huf": 115000,
+      "location": "Debrecen, Tócóskert, Kardos utca",
+      "size_m2": 48,
+      "rooms": 2,
+      "description": "Kiadó bútorozott 2 szobás panellakás Tócóskerten. Rezsi 25-30e Ft. 2 havi kaució. Azonnal beköltözhető.",
+      "contact": "+36 70 555 0103",
+      "url": "https://ingatlan.com/demo-L03",
+      "photo_hashes": [
+        "img_l03a"
+      ]
+    },
+    {
+      "id": "L04",
+      "source": "Facebook csoport",
+      "title": "Nagyerdő - gyönyörű 2 szobás lakás, nagyon olcsón",
+      "price_huf": 75000,
+      "location": "Debrecen, Nagyerdő, Egyetem sugárút közelében",
+      "size_m2": 58,
+      "rooms": 2,
+      "description": "Sajnos jelenleg külföldön dolgozom, ezért a lakást nem tudom személyesen megmutatni. A kulcsokat postán küldöm, miután az első havi bérleti díjat és a kauciót előre átutalta. Sok az érdeklődő, ezért kérem, még ma jelezzen. Kapcsolat csak e-mailben.",
+      "contact": "owner.flat.debrecen@example.com",
+      "url": "https://facebook.com/demo-L04",
+      "photo_hashes": [
+        "img_l04a",
+        "img_l04b"
+      ]
+    },
+    {
+      "id": "L17",
+      "source": "Facebook csoport",
+      "title": "Ágy kiadó kétágyas szobában fiúnak a Nagyerdőn",
+      "price_huf": 45000,
+      "location": "Debrecen, Nagyerdő",
+      "size_m2": 20,
+      "rooms": 1,
+      "description": "Férőhely kiadó egyetemista fiúnak egy kétágyas, bútorozott szobában a Nagyerdőn. Az ár rezsivel együtt értendő. Azonnal beköltözhető.",
+      "contact": "Messenger",
+      "url": "https://facebook.com/demo-L17",
+      "photo_hashes": [
+        "img_l17"
+      ]
+    },
+    {
+      "id": "F02",
+      "source": "Flat-Watch",
+      "title": "Studio next to Kassai út campus",
+      "price_huf": 130000,
+      "location": "Debrecen, Kassai út",
+      "size_m2": 30,
+      "rooms": 1,
+      "offer_type": "apartment",
+      "poster_role": "owner",
+      "poster_name": "Gábor Nagy",
+      "description": "Renovated, furnished studio, 5 minutes walk to the Kassai út campus. Long-term, students welcome.",
+      "contact": "+36 20 555 0302",
+      "utilities_huf": 25000,
+      "deposit_huf": 260000,
+      "furnished": true,
+      "available_from": "2027-02-01",
+      "smoking_ok": false,
+      "pets_ok": true
+    },
+    {
+      "id": "L05",
+      "source": "ingatlan.com",
+      "title": "Kiadó üres lakás Sestakertben",
+      "price_huf": 140000,
+      "location": "Debrecen, Sestakert",
+      "size_m2": 50,
+      "rooms": 2,
+      "description": "Bútorozatlan, 2 szobás lakás hosszú távra kiadó Sestakertben. Rezsi kb. 32e Ft. 2 havi kaució. Január 15-től költözhető.",
+      "contact": "+36 30 555 0105",
+      "url": "https://ingatlan.com/demo-L05",
+      "photo_hashes": [
+        "img_l05a"
+      ]
+    },
+    {
+      "id": "L06",
+      "source": "Flat-Watch",
+      "title": "Garzon a Wesselényi lakótelepen",
+      "price_huf": 125000,
+      "location": "Debrecen, Wesselényi lakótelep",
+      "size_m2": 32,
+      "rooms": 1,
+      "description": "Kiadó egy kis garzonlakás a Wesselényi lakótelepen, közel a villamoshoz. Diákoknak ideális. Kaució 1 havi. Február elejétől szabad.",
+      "contact": "",
+      "url": "",
+      "photo_hashes": [
+        "img_l06a"
+      ],
+      "poster_role": "owner",
+      "poster_name": "Éva Tóth"
+    },
+    {
+      "id": "L07",
+      "source": "Flat-Watch",
+      "title": "Nagyerdő, egyetemhez 5 percre - stúdiólakás",
+      "price_huf": 150000,
+      "location": "Debrecen, Nagyerdő, Bem tér",
+      "size_m2": 34,
+      "rooms": 1,
+      "description": "Új építésű, bútorozott, gépesített stúdiólakás a Nagyerdőn, gyalog 5 percre az egyetemtől. A bérleti díj rezsivel együtt értendő (internet is). 2 havi kaució. Február 1-től beköltözhető. Megtekintés hétköznap délután.",
+      "contact": "",
+      "url": "",
+      "photo_hashes": [
+        "img_l07a",
+        "img_l07b"
+      ],
+      "poster_role": "owner",
+      "poster_name": "Gábor Nagy"
+    },
+    {
+      "id": "F03",
+      "source": "Flat-Watch",
+      "title": "Bed space in a shared room near the University",
+      "price_huf": 50000,
+      "location": "Debrecen, Nagyerdő",
+      "size_m2": 22,
+      "rooms": 1,
+      "offer_type": "bed",
+      "beds_in_room": 2,
+      "poster_role": "tenant",
+      "poster_name": "Rahul Sharma",
+      "description": "My roommate graduated, so one bed is free in our 2-bed room (3-room flat, 5 people). Utilities included. We cook together often and speak English at home.",
+      "contact": "rahul@example.com",
+      "utilities_included": true,
+      "furnished": true,
+      "available_from": "2027-01-15",
+      "smoking_ok": false,
+      "pref_genders": [
+        "Male"
+      ],
+      "occupants": [
+        {
+          "gender": "Male"
+        },
+        {
+          "gender": "Male"
+        }
+      ],
+      "pref_languages": [
+        "English"
+      ]
+    },
+    {
+      "id": "L08",
+      "source": "Facebook csoport",
+      "title": "Szoba kiadó Józsán",
+      "price_huf": 80000,
+      "location": "Debrecen, Józsa",
+      "size_m2": 18,
+      "rooms": 1,
+      "description": "Családi házban bútorozott szoba kiadó Józsán, közös konyha és fürdő. Rezsivel együtt. Azonnal beköltözhető.",
+      "contact": "+36 30 555 0108",
+      "url": "https://facebook.com/demo-L08",
+      "photo_hashes": [
+        "img_l08a"
+      ]
+    },
+    {
+      "id": "L09",
+      "source": "Facebook csoport",
+      "title": "Bútorozott 1,5 szobás lakás Libakertben - AKCIÓ",
+      "price_huf": 95000,
+      "location": "Debrecen, Libakert",
+      "size_m2": 41,
+      "rooms": 1.5,
+      "description": "Egyetemisták figyelmébe! Kiadó egy csendes, bútorozott 1,5 szobás lakás Libakertben, a 3-as busz megállója 2 percre. Rezsi átlagosan 30e Ft. A foglaláshoz utalja át a kauciót, a szerződést utána küldöm. Kérem írjon WhatsAppon.",
+      "contact": "+44 7700 900123 (WhatsApp)",
+      "url": "https://facebook.com/demo-L09",
+      "photo_hashes": [
+        "img_l02a",
+        "img_l09b"
+      ]
+    },
+    {
+      "id": "L10",
+      "source": "Flat-Watch",
+      "title": "Csapókerti családi ház tetőtéri lakása",
+      "price_huf": 130000,
+      "location": "Debrecen, Csapókert",
+      "size_m2": 45,
+      "rooms": 2,
+      "description": "Külön bejáratú, bútorozott tetőtéri lakás csapókerti családi házban. Rezsi kb. 28e Ft. Kisállat hozható. 2 havi kaució. Február 1-től.",
+      "contact": "",
+      "url": "",
+      "photo_hashes": [
+        "img_l10a"
+      ],
+      "poster_role": "owner",
+      "poster_name": "Éva Tóth"
+    },
+    {
+      "id": "L11",
+      "source": "Jófogás",
+      "title": "Újkerti 1 szobás lakás",
+      "price_huf": 120000,
+      "location": "Debrecen, Újkert",
+      "size_m2": 38,
+      "rooms": 1,
+      "description": "Bútorozott 1 szobás lakás Újkerten. Rezsi 25e Ft. 2 havi kaució. Február 1-től kiadó.",
+      "contact": "+36 30 555 0111",
+      "url": "https://jofogas.hu/demo-L11",
+      "photo_hashes": [
+        "img_l11a"
+      ]
+    },
+    {
+      "id": "L12",
+      "source": "Flat-Watch",
+      "title": "Belvárosi garzon a Piac utcán",
+      "price_huf": 145000,
+      "location": "Debrecen, Belváros, Piac utca",
+      "size_m2": 30,
+      "rooms": 1,
+      "description": "Felújított, bútorozott garzon a Piac utcán, a villamos megálló előtt. Rezsi kb. 25e Ft. Kaució 2 havi. Március 1-től költözhető.",
+      "contact": "",
+      "url": "",
+      "photo_hashes": [
+        "img_l12a"
+      ],
+      "poster_role": "owner",
+      "poster_name": "Gábor Nagy"
+    },
+    {
+      "id": "L13",
+      "source": "Flat-Watch",
+      "title": "Kiadó lakás Kerekestelepen",
+      "price_huf": 140000,
+      "location": "Debrecen, Kerekestelep",
+      "size_m2": 44,
+      "rooms": 2,
+      "description": "Kiadó 2 szobás lakás Kerekestelepen. Rezsi 30-35e Ft. Bútorozott. 2 havi kaució. Február 1-től.",
+      "contact": "",
+      "url": "",
+      "photo_hashes": [
+        "img_l13a"
+      ],
+      "poster_role": "owner",
+      "poster_name": "Péter Szabó"
+    },
+    {
+      "id": "L14",
+      "source": "Facebook csoport",
+      "title": "Luxus lakás a Nagyerdőn, Airbnb-n keresztül foglalható",
+      "price_huf": 90000,
+      "location": "Debrecen, Nagyerdő",
+      "size_m2": 65,
+      "rooms": 2,
+      "description": "Gyönyörű bútorozott lakás a Nagyerdőn. Jelenleg külföldön élek, ezért a foglalás Airbnb-n keresztül történik, a linket e-mailben küldöm. A kauciót megtekintés előtt kell utalni.",
+      "contact": "+49 151 555 0114",
+      "url": "https://facebook.com/demo-L14",
+      "photo_hashes": [
+        "img_l14a"
+      ]
+    },
+    {
+      "id": "L15",
+      "source": "Flat-Watch",
+      "title": "Epreskerti 1,5 szobás lakás erkéllyel",
+      "price_huf": 140000,
+      "location": "Debrecen, Epreskert",
+      "size_m2": 40,
+      "rooms": 1.5,
+      "description": "Bútorozott 1,5 szobás, erkélyes lakás Epreskertben. Rezsi kb. 30e Ft. 2 havi kaució. Február 1-től beköltözhető.",
+      "contact": "",
+      "url": "",
+      "photo_hashes": [
+        "img_l15a"
+      ],
+      "poster_role": "owner",
+      "poster_name": "Péter Szabó"
+    }
+  ]
+}
