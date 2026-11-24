@@ -22,6 +22,12 @@ Copy-Item .env.example .env
 python -m pytest -q                  # 50 tests should pass
 python -m streamlit run app.py
 ```
+
+'''c
+cd C:\wamp64\www\flat-watch
+.\.venv313\Scripts\python.exe -m streamlit run app.py --server.headless=true
+'''
+
 Optional, once: `python tools\fetch_osm_stops.py` for every Debrecen bus/tram/trolleybus line (needs internet).
 
 > **Upgrading?** Your existing `flatwatch.db` is migrated automatically. To see the new sample photos,
